@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Susie Kim
+I'm a UCLA computer science student passionate about building thoughtful, scalable software to simplify everyday tasks and enhance human capability.
+
+🌱 I’m especially interested in software engineering for impactful, user-facing technology and in humanoid robot learning systems designed for real-world deployment and human assistance.
+
+📫 Let’s connect: [LinkedIn]([url](https://www.linkedin.com/in/susiekim101/)) | ✉️ susiekim101[at]ucla[dot]edu
 
 <!--
 **susiekim101/susiekim101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
