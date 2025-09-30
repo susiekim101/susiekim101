@@ -2,6 +2,7 @@
 I'm a UCLA computer science student passionate about building thoughtful, scalable software to simplify everyday tasks and enhance human capability.
 
 🌱 I’m especially interested in software engineering for impactful, user-facing technology and in humanoid robot learning systems designed for real-world deployment and human assistance.
+
 🔭 I’m currently working with a nonprofit organization to help empower their clients while cutting down labor costs. Currently focusing on expanding the backend with Google Cloud Platform.
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/susiekim101/) | ✉️ susiekim101[at]ucla[dot]edu
