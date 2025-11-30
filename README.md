@@ -3,9 +3,14 @@ I'm a UCLA computer science student passionate about building thoughtful, scalab
 
 🌱 I’m especially interested in software engineering for impactful, user-facing technology and in humanoid robot learning systems designed for real-world deployment and human assistance.
 
-🔭 I’m currently working with a nonprofit organization to help empower their clients while cutting down labor costs. Working to expand the backend utilizing Google Cloud Platform APIs and Cloud Run.
+🔭 I’m currently building an online 4-year course scheduler for UCLA Engineering students: [bruin-plan](https://github.com/susiekim101/bruin-plan/pulls)
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/susiekim101/) | ✉️ susiekim101[at]ucla[dot]edu
+🐷 I recently contributed to building an internal content management system for the Daily Bruin from scratch (yes, it's called Oink): [oink](https://oink.dailybruin.com/) 
+
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/susiekim101/)
+
+✉️ susiekim101[at]ucla[dot]edu | kim.susie06[at]gmail[dot]com
 
 <!--
 **susiekim101/susiekim101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
