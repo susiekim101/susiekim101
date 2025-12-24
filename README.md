@@ -3,7 +3,7 @@ I'm a UCLA computer science student passionate about building thoughtful, scalab
 
 🌱 I’m especially interested in software engineering for impactful, user-facing technology and in humanoid robot learning systems designed for real-world deployment and human assistance. I love listening to podcasts on software engineering, AI, and recent advancements in robotics.
 
-📝 I am building a developer's blog, where I post personal insights and explanations to Leetcode problems. Simply building for fun and to learn new tech stacks! : [DEV BLOG](https://dev-blog-aeuchn5nc-susie-kims-projects-b91f1716.vercel.app)
+📝 I am building a developer's blog, where I post personal insights and explanations to Leetcode problems. Simply building for fun and to learn new tech stacks! : [dev blog](https://dev-blog-five-lac.vercel.app/)
 
 🔭 I created an online 4-year course scheduler for UCLA Engineering students: [bruin-plan](https://github.com/susiekim101/bruin-plan/pulls)
 
