@@ -3,7 +3,7 @@ I'm a UCLA computer science student passionate about building thoughtful, scalab
 
 🌱 I’m especially interested in software engineering for impactful, user-facing technology and in humanoid robot learning systems designed for real-world deployment and human assistance. I love listening to podcasts on software engineering, AI, and recent advancements in robotics.
 
-📝 I am building a developer's blog, where I post personal insights and explanations to Leetcode problems. Simply building for fun and to learn new tech stacks! : [dev blog](https://dev-blog-five-lac.vercel.app/)
+📝 I am building for a social movement organization, transforming their static platform into a React Native mobile app. Excited to launch this product within the next few months!
 
 🔭 I created an online 4-year course scheduler for UCLA Engineering students: [bruin-plan](https://github.com/susiekim101/bruin-plan/pulls)
 
@@ -11,7 +11,7 @@ I'm a UCLA computer science student passionate about building thoughtful, scalab
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/susiekim101/)
 
-✉️ susiekim101[at]ucla[dot]edu | kim.susie06[at]gmail[dot]com
+✉️ kim.susie06[at]gmail[dot]com
 
 <!--
 **susiekim101/susiekim101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
